@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veronicamedeiros.
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP.
-- 🌱 I’m currently learning HTML/CSS.
+- 🌱 I’m currently learning JavaScript.
 
 
 <!---
